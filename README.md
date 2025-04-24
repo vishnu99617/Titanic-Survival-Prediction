@@ -121,3 +121,24 @@ Model tuning for better performance
 
 🤝 Contributing
 Feel free to fork this project, raise issues, and submit pull requests. All suggestions are welcome!
+
+
+Sample Output : 
+
+🔍 Classification Report:
+               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        50
+           1       1.00      1.00      1.00        34
+
+    accuracy                           1.00        84
+   macro avg       1.00      1.00      1.00        84
+weighted avg       1.00      1.00      1.00        84
+
+📊 Confusion Matrix:
+ [[50  0]
+ [ 0 34]]
+✅ Accuracy Score: 1.0
+
+
+
