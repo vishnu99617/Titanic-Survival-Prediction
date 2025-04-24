@@ -24,3 +24,19 @@ Build a Machine Learning model to predict whether a passenger survived the Titan
 - Recall
 - F1 Score
 - Classification Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
